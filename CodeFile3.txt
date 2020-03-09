@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Coding by branch develop
 
 changing for revert commit
+=======
+Coding by branch develop
+>>>>>>> 2594c031f7a0610a2233fbe0ea29b3525fddf8b5
